@@ -33,7 +33,7 @@
 		<mysql.version>8.0.16</mysql.version>
 
 		<!-- Hibernate -->
-		<hibernate.version>5.2.10.Final</hibernate.version>
+		<hibernate.version>5.3.20.Final</hibernate.version>
 
 		<!-- Log4j -->
 		<log4j.version>1.2.17</log4j.version>
